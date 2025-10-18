@@ -1,5 +1,3 @@
-# Survey Form - Lab 2 Exercise 2
-
 ## Project Overview
 
 This project implements a comprehensive survey form for Ho Chi Minh City International University using HTML5, CSS3, JavaScript, and Bootstrap 4. The form collects user information, preferences, and contact details through various input methods.
